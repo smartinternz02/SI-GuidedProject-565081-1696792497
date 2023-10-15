@@ -1,7 +1,7 @@
-echo "# SI-GuidedProject-565081-1696792497" >> README.md
+echo "# SalesforceDeveloperSuperset" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/smartinternz02/SI-GuidedProject-565081-1696792497.git
+git remote add origin https://github.com/smartinternz02/SalesforceDeveloperSuperset.git
 git push -u origin main
