@@ -1,0 +1,12 @@
+public class RandomContactFactory{
+   public static List<Contact> generateRandomContacts(Integer n, String lastname){
+      List<Contact> ct = new List<Contact>();
+      for(Integer i = 0; i < n; i++){
+         Contact c = new Contact();((9))
+         c.FirstName = 'Test ' + i;
+         c.LastName = Lastname;
+         ct.add(c);
+      }
+      return ct;
+   }
+}    
